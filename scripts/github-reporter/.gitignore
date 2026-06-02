@@ -1,0 +1,4 @@
+# SEGURANÇA: nunca commitar credenciais
+.env
+*.env
+!.env.example
